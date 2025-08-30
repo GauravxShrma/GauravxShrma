@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">Frontend Developer (MERN) • AI Filmmaker & Creative Editor • India</h3>
+<h3 align="center">Full Stack Developer (MERN) • India</h3>
 
 - 🔭 I’m currently working on **ExamRanger — AI-powered exam platform**
 
