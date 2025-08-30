@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend for ExamRanger**
 
-- 💬 Ask me about **React, Express, MongoDB, REST APIs, Web Audio API, AI filmmaking workflows**
+- 💬 Ask me about **React, Express, MongoDB, REST APIs, Node.js, Python, C++**
 
 - 📫 How to reach me **gauravxshrma@gmail.com**
 
